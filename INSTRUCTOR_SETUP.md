@@ -43,8 +43,8 @@ Make sure GitHub Actions is enabled in your organization settings for autogradin
 ### 4. Get Assignment Link
 
 After creating the assignment, GitHub Classroom will provide a link like:
-`https://classroom.github.com/a/XXXXXXX`
-
+`https://classroom.github.com/a/XXXXXXX` [
+](https://classroom.github.com/a/mmAQqJmF)
 Update this link in the course materials.
 
 ## Files in This Template
